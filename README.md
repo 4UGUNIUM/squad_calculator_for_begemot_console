@@ -1,4 +1,4 @@
 Самый простой консольный калькулятор для бегемотаб Squad, узнать расстояние можно по squadmap
 *Извиняюсь за кривой текст))
 
-☆Made by KikLox☆ With squad
+☆Made by KikLox player☆ for squad
